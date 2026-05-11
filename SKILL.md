@@ -1,6 +1,6 @@
 ---
 name: persona-distiller
-description: "将一个人的写作风格、说话方式、知识体系蒸馏成可复用的 Persona Skill。当用户说「帮我把XX做成Skill」「蒸馏我自己」「把老板的风格提取出来」「做一个XX的AI分身」「persona skill」「个人品牌蒸馏」「风格提取」「人设蒸馏」「数字分身」时触发。也适用于用户想要把某个人的文章/聊天记录/邮件风格变成可安装的AI人设包的场景。"
+description: "将任何人的写作风格、说话方式、知识体系蒸馏成可复用的 Persona Skill。支持文章/聊天记录/邮件/口述素材，无素材可用快问快答模式。输出标准Skill包，可安装、可分享。适合个人品牌、团队风格统一、AI分身制作。"
 ---
 
 # Persona Distiller — 三步蒸馏法
